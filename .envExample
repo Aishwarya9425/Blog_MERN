@@ -1,0 +1,5 @@
+mongo_url = ""
+jwt_secret = ""
+stripe_secret_key = ""
+NODE_ENV=development
+PORT=5000
